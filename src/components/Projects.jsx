@@ -1,7 +1,7 @@
 import "../styles/global.css";
 import aiLabImg from "../images/3.png";
 import shopliftingImg from "../images/5.png";
-import learningImg from "../images/4.png";
+
 import img from "../images/6.png";
 import img2 from "../images/7.png";
 import expenseVideo from "../images/e.mp4";
