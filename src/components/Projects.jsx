@@ -43,14 +43,14 @@ const projectsData = [
     github: "https://github.com/Harish24-10-2005/Yieldify", 
     
   },
-  // { 
-  //   title: "Traffic Accident Prediction", 
-  //   description: "Predict and analyze road accidents to enhance traffic safety and management.",
-  //   details: "A machine learning-based system that forecasts accident-prone areas and times by analyzing traffic data. Helps authorities take proactive measures to reduce accidents and improve road safety.",
-  //   image: img2, 
-  //   github: "#", 
-  //   demo: "#" 
-  // },
+  { 
+    title: "Virtual Event Planner", 
+    description: "Virtual Event Planner is a web application built  for organizing and managing virtual events.",
+    details: "A web-based solution to create, customize, and manage virtual events with RSVP tracking and guest invitations.",
+    image: img2, 
+    github: "https://github.com/Afrafathima005/virtual-event-planner", 
+    demo: "https://virtual-event-planner-7v3q.vercel.app/" 
+  },
   // { 
   //   title: "AI Career Companion ", 
   //   description: "Book your doctor appointment.",
