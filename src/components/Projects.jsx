@@ -27,6 +27,14 @@ const projectsData = [
   github: "https://github.com/Afrafathima005/startup_buddy",
   demo: "https://startup-buddy-59t4.vercel.app/"
   },
+   { 
+    title: "Virtual Event Planner", 
+    description: "Virtual Event Planner is a web application built  for organizing and managing virtual events.",
+    details: "A web-based solution to create, customize, and manage virtual events with RSVP tracking and guest invitations.",
+    image: img2, 
+    github: "https://github.com/Afrafathima005/virtual-event-planner", 
+    demo: "https://virtual-event-planner-7v3q.vercel.app/" 
+  },
   { 
     title: "Expense Tracker", 
     description: "Track your daily expenses",
@@ -43,14 +51,7 @@ const projectsData = [
     github: "https://github.com/Harish24-10-2005/Yieldify", 
     
   },
-  { 
-    title: "Virtual Event Planner", 
-    description: "Virtual Event Planner is a web application built  for organizing and managing virtual events.",
-    details: "A web-based solution to create, customize, and manage virtual events with RSVP tracking and guest invitations.",
-    image: img2, 
-    github: "https://github.com/Afrafathima005/virtual-event-planner", 
-    demo: "https://virtual-event-planner-7v3q.vercel.app/" 
-  },
+  
   // { 
   //   title: "AI Career Companion ", 
   //   description: "Book your doctor appointment.",
